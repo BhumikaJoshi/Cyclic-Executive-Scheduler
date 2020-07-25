@@ -1,0 +1,2 @@
+hyperperiod: 30.000000
+total utilization: 78.888885

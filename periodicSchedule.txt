@@ -1,0 +1,28 @@
+Number of frames: 6    Best frame size possible: 5
+Frame : 0
+task : 0,job : 0    0.000000 to 1.000000    Arrival : 0.000000
+task : 1,job : 0    1.000000 to 2.000000    Arrival : 0.000000
+task : 2,job : 0    2.000000 to 4.000000    Arrival : 0.000000
+IDLE :              4.000000 to 5.000000
+Frame : 1
+task : 0,job : 1    5.000000 to 6.000000    Arrival : 5.000000
+task : 4,job : 0    6.000000 to 10.000000    Arrival : 0.000000
+Frame : 2
+task : 0,job : 2    10.000000 to 11.000000    Arrival : 10.000000
+task : 1,job : 1    11.000000 to 12.000000    Arrival : 6.000000
+task : 2,job : 1    12.000000 to 14.000000    Arrival : 10.000000
+IDLE :              14.000000 to 15.000000
+Frame : 3
+task : 0,job : 3    15.000000 to 16.000000    Arrival : 15.000000
+task : 1,job : 2    16.000000 to 17.000000    Arrival : 12.000000
+task : 5,job : 0    17.000000 to 19.000000    Arrival : 0.000000
+IDLE :              19.000000 to 20.000000
+Frame : 4
+task : 0,job : 4    20.000000 to 21.000000    Arrival : 20.000000
+task : 1,job : 3    21.000000 to 22.000000    Arrival : 18.000000
+task : 2,job : 2    22.000000 to 24.000000    Arrival : 20.000000
+IDLE :              24.000000 to 25.000000
+Frame : 5
+task : 0,job : 5    25.000000 to 26.000000    Arrival : 25.000000
+task : 1,job : 4    26.000000 to 27.000000    Arrival : 24.000000
+IDLE :              27.000000 to 30.000000
