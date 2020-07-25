@@ -1,7 +1,6 @@
 BHUMIKA JOSHI
-2019H1030501G
 
-Files in the Assignment are:
+List of files:
 
 executive.h:implementation file for periodic schedule 
 cyclicexe.h: implementation file for cyclic executive periodic schedule
@@ -30,11 +29,6 @@ Assumptions
 3. Assumed Granularity to be 0.5 ms
 
 
-What I have not done:
-
-I did not do the CalculateParameters module and printResults module.
-I did not do commenting properly. 
-
 How to run
 
 Open the terminal and go to location where folder is present
@@ -45,9 +39,4 @@ make run FILE1=inputFile.txt FILE2=hpU.txt FILE3=periodicSchedule.txt FILE4=inpu
 
 Structure of program: Have implemented task splitting by using some concepts of INF.
 Firstly finding best number of frames by implementing frame splitting then finding periodic schedule. 
-Have also implemented sporadic tasks.
-
-What not done:
-Not scheduled aperiodic tasks. Also not reduced WCET and scheduled.
-For final schedule with response time and waiting time, please see terminal itself as not able to display properly in file.
-Tried a lot to do aperiodic jobs but was getting some error.
+Have also implemented sporadic tasks using Cyclic EDF.
